@@ -1,4 +1,25 @@
-# test-4
+## Self Notes
+
+ - react-csv-reader used to upload and import csv file
+
+
+## Questions Requiring Clarification
+ - Date file format MM/DD/(this part has 4~6 digits)
+    - First thought it could possibly be : 15346 => 2015 - 03:46 ; 3618 => 2003 - 06:18
+    - However 17871 wouldn't make sense 2017 - 08:71 (71 min...) 
+
+
+## Data Visualization Ideas
+Database:
+ - Gender / Age : Stacked Bars with Central Axis
+
+Filter:
+ - Count value, average
+
+Misc:
+ - Basic SunBurst : Car Make => Model
+
+## test-4
 
 Given the test_data1.csv file
 

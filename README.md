@@ -7,9 +7,10 @@
  - Date file format MM/DD/(this part has 4~6 digits)
     - First thought it could possibly be : 15346 => 2015 - 03:46 ; 3618 => 2003 - 06:18
     - However 17871 wouldn't make sense 2017 - 08:71 (71 min...) 
+ - What does the date represent? Enrollment date? (insurance purposes..?)
+ - Who is the customer that this is being catered to?
 
-
-## Data Visualization Ideas
+## Data Visualization Ideas depending on userbase
 Database:
  - Gender / Age : Stacked Bars with Central Axis
 
